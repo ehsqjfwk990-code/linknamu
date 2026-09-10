@@ -1,0 +1,11 @@
+<svg width="96" height="96" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="48" cy="48" r="48" fill="#94a3b8" />
+  <text
+    x="48"
+    y="60"
+    font-size="36"
+    font-family="-apple-system, Segoe UI, Roboto, sans-serif"
+    fill="#ffffff"
+    text-anchor="middle"
+  >손</text>
+</svg>
